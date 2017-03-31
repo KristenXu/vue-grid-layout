@@ -5,7 +5,7 @@
     <div v-el:item class="vue-grid-layout" :style="mergedStyle">
         <slot></slot>
         <grid-item class="vue-grid-placeholder"
-                   v-if="isDragging"
+                   v-show="isDragging"
                    :x="placeholder.x"
                    :y="placeholder.y"
                    :w="placeholder.w"
