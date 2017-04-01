@@ -2,6 +2,7 @@
 
 vue-grid-layout is a grid layout system, like [Gridster](http://gridster.net), for Vue.js.
 
+vue-grid-layout-1.x is adapted for vue1.x
 
 **Heavily inspired in [React-Grid-Layout](https://github.com/STRML/react-grid-layout)**
 
@@ -43,14 +44,14 @@ TODO UPDATE CHANGELOG
 
 ## Installation
 
-Install the vue-grid-layout [package](https://www.npmjs.org/package/vue-grid-layout) package using [npm](https://www.npmjs.com/):
+Install the vue-grid-layout-1.x [package](https://www.npmjs.org/package/vue-grid-layout-1.x) package using [npm](https://www.npmjs.com/):
 
-	npm install vue-grid-layout
+	npm install vue-grid-layout-1.x
 
 
 ## Usage
 
-npm install vue-grid-layout
+npm install vue-grid-layout-1.x
 
 ```javascript
 
